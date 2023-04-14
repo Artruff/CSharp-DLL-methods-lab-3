@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace FileManageProgram.Access
 {
+    /// <summary>
+    /// Перечисление с уровнями доступности меню
+    /// </summary>
     public enum AccessEnum
     {
         VisibleAndAccessible,
